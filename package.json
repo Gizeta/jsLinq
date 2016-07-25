@@ -1,0 +1,26 @@
+{
+  "name": "js-linq",
+  "version": "0.0.0",
+  "description": "LINQ for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gizeta/jsLinq.git"
+  },
+  "keywords": [
+    "linq"
+  ],
+  "author": "Gizeta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gizeta/jsLinq/issues"
+  },
+  "homepage": "https://github.com/Gizeta/jsLinq#readme",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-node6": "^11.0.0"
+  }
+}
